@@ -1,0 +1,112 @@
+body {
+  background-color: lightgoldenrodyellow;
+}
+div.align {
+  display: flex;
+  justify-content: space-between;
+  font-family: Georgia;
+  font-weight: bold;
+}
+
+div.align p {
+  font-size: 15px;
+  margin: 0;
+  padding: 0px 300px;
+}
+img.Myphoto {
+  width: 430px;
+  height: 465px;
+}
+section.section1 {
+  box-sizing: border-box;
+  padding: 30px 300px;
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+}
+section.section2 {
+  padding: 10px 300px;
+  margin: 0px;
+}
+.h1_la {
+  text-align: right;
+  font-family: Georgia;
+  font-weight: none;
+  font-size: 70px;
+  margin-top: -10px;
+}
+p.pStudent1 {
+  margin-top: -60px;
+  font-size: 45px;
+  text-align: right;
+  font-family: Georgia;
+}
+h2.obr {
+  font-size: 50px;
+  margin-top: 20px;
+  font-family: Georgia;
+  text-align: left;
+}
+h3.gymBobr {
+  font-size: 25px;
+  margin-top: -10px;
+  font-family: Georgia;
+  text-align: left;
+}
+.yearSchcool {
+  font-size: 20px;
+  margin-top: -20px;
+  font-family: Georgia;
+  font-weight: normal;
+  text-align: left;
+}
+p.PolesSU {
+  font-size: 18px;
+  font-family: Georgia;
+  font-weight: normal;
+  text-align: left;
+}
+h3.PolesSU {
+  font-size: 22.5px;
+  font-family: Georgia;
+  text-align: left;
+}
+h2.talent {
+  font-size: 40px;
+  font-family: Georgia;
+  text-align: left;
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+ul.talentSpisok {
+  font-size: 25px;
+  font-family: Georgia;
+  list-style-type: circle;
+  text-align: left;
+}
+#table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 10px 0px;
+}
+#td {
+  padding: 20px 80px 5px 0px;
+  text-align: left;
+}
+#div {
+  margin-top: -250px;
+  padding-left: 30px;
+}
+#progRus,
+#progEng,
+#progFra {
+  font-size: 30px;
+  font-family: Georgia;
+  margin: 10px 0px;
+}
+#me {
+  text-align: justify;
+  margin-left: 50px;
+  font-family: Verdana;
+  font-size: 20px;
+}
